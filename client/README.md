@@ -34,3 +34,81 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+# Cybersecurity Portfolio
+
+A responsive, static portfolio website built with
+Next.js App Router, React, TypeScript, and CSS.
+
+## Features
+
+- Responsive home page
+- Cybersecurity expertise
+- Research and publications
+- Project portfolio
+- Professional experience
+- Education and coursework
+- Skills and certifications
+- Professional training
+- Volunteering
+- Contact information
+- SEO metadata
+- Sitemap and robots.txt
+- Custom 404 page
+- Accessible navigation
+
+## Requirements
+
+- Node.js
+- npm
+
+## Installation
+
+Install dependencies:
+
+npm install
+
+## Development
+
+Start the development server:
+
+npm run dev
+
+Open:
+
+http://localhost:3000
+
+## Production Build
+
+Create a production build:
+
+npm run build
+
+Run the production server:
+
+npm run start
+
+## Customization
+
+Update personal information in:
+
+- data/profile.ts
+- data/social-links.ts
+- data/expertise.ts
+
+Update the site URL and metadata in:
+
+- lib/constants.ts
+
+Add images to:
+
+- public/images/
+
+Add your resume to:
+
+- public/documents/resume.pdf
+
+## Privacy
+
+This project does not require a database or admin panel.
+Use only accurate, verified personal and professional
+information when publishing the website.
